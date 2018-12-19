@@ -1,0 +1,23 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table javier_cpitvc_ingeniero'
+    - builder_table_create_javier_cpitvc_ingeniero.php
+1.0.3:
+    - 'Created table javier_cpitvc_ciudad'
+    - builder_table_create_javier_cpitvc_ciudad.php
+1.0.4:
+    - 'Created table javier_cpitvc_pago'
+    - builder_table_create_javier_cpitvc_pago.php
+1.0.5:
+    - 'Created table javier_cpitvc_universidad'
+    - builder_table_create_javier_cpitvc_universidad.php
+1.0.6:
+    - 'Created table javier_cpitvc_titulo'
+    - builder_table_create_javier_cpitvc_titulo.php
+1.0.7:
+    - 'Updated table javier_cpitvc_ingeniero'
+    - builder_table_update_javier_cpitvc_ingeniero.php
+1.0.8:
+    - 'Updated table javier_cpitvc_pago'
+    - builder_table_update_javier_cpitvc_pago.php
